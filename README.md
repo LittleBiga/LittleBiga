@@ -1,6 +1,7 @@
-## Hi there 👋
-
 <div align="center">
+
+<h1 align="center">🌟 Hello World, I'm Bowen Tang</h1>
+    <h3 align="center"></h3>
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -23,9 +24,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -42,19 +43,25 @@
 
 - 
 <!-- ########################################## 分割 ########################################## -->
-![小鼻嘎's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBiga&show_icons=true&theme=radical)
+<h2 align="center">📊 GitHub 统计看板 | Statistics</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleBiga&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBiga&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
-![Visitor Count](https://profile-counter.glitch.me/LittleBiga/count.svg)
-
-
-<!-- ########################################## 分割 ########################################## -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBiga&layout=compact&theme=tokyonight)
-
+<h2 align="center">👀 访问人数 | Visitors</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LittleBiga/count.svg" alt="Visitor Count" />
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
-[![小鼻嘎's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittleBiga&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">⏳ 贡献时间线 | Contribution Timeline</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleBiga&theme=tokyo-night" alt="Activity Graph" />
+</div>
 
+<!-- 删除多余的表格闭合标签 -->
 </td></tr>
 
 </table>
