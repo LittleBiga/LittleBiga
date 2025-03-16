@@ -1,25 +1,17 @@
 <div align="center">
 
-<h1 align="center">🌟 Hello World, I'm Bowen Tang</h1>
+<h1 align="center">🌟 Bon Voyage! I'm Bowen Tang</h1>
     <h3 align="center"></h3>
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
+        <!-- 固定标题 -->
+    <h2>小唐同学祝您：</h2>
+        <!-- 动态内容 -->
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);小唐同学祝您万事胜意!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=535&lines=💻 代码无BUG 💻;🎯 万事皆胜意 🎯&center=true&size=27&height=40&vCenter=true&repeat=true" />
     </a>
   </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
 
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -30,33 +22,51 @@
   </picture>
 
 </div>
+<p>
+  <a href="[https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
+  <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-ffffff?style=for-the-badge&logo=CSDN&logoColor=black"/></a>
+  <a href="mailto:13674711730@163.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <br/>
+  <a href="https://mp.weixin.qq.com/s/iHMUPWsXQjUfImx-oCu53Q">微信公众号:正经人王同学</a>
+  <a href="https://www.zhihu.com/people/30-95-6-63">知乎:正经人王同学</a>
+  <a href="https://x.com/zjrwtx">微信：whatisallineed</a>
+  
+  
+</p>
+
+![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
+![](https://img.shields.io/badge/Role-AI_Engineer_Researcher-20B2AA)
+
+[![GitHub followers](https://img.shields.io/github/followers/LittleBiga?style=social)](https://github.com/LittleBiga)
+![Profile Views](https://komarev.com/ghpvc/?username=LittleBiga&color=blueviolet)
+
 
 <!-- ########################################## 分割 ########################################## -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 
+<h1>📌 关于我 | About Me</h1>
+    <ul style="line-height:1.8;">
+        <li>🎓 教育背景：本科自动化 | 硕士电子信息 (B.Eng Automation -> M.Eng Electronic Information)</li>
+        <li>🎯 研究方向 / Research Focus: 基于学习的机械臂抓取规划 (Learning-based Robotic Grasping Planning)</li>
+        <li>💻 技术栈 / Tech Stack: Python/C、机器学习/ML、深度强化学习/DRL</li>
+        <li>🚀 近期目标 / Current Goals: 提升工程化能力 & 准备大厂求职 | Improving Coding Skills & FAANG Prep</li>
+        <li>🏓 兴趣爱好 / Hobbies: INFJ人格 | 乒乓球/Table Tennis | 城市漫游/Citywalk</li>
+        <li>📫 联系方式 / Contact: <a href="mailto:13674711730@163.com">点击联系/Click to Contact</a></li>
+    </ul>
 <!-- ########################################## 分割 ########################################## -->
-<h2 align="center">📊 GitHub 统计看板 | Statistics</h2>
+<h1>📊 GitHub 统计看板 | Statistics</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleBiga&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBiga&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<h2 align="center">👀 访问人数 | Visitors</h2>
+<h1>👀 访问人数 | Visitors</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/LittleBiga/count.svg" alt="Visitor Count" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<h2 align="center">⏳ 贡献时间线 | Contribution Timeline</h2>
+<h1>⏳ 贡献时间线 | Contribution Timeline</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleBiga&theme=tokyo-night" alt="Activity Graph" />
 </div>
