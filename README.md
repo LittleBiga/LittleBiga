@@ -25,8 +25,8 @@
 
 <div align="center">
   <p>
-    <a href="[https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
-    <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-ffffff?style=for-the-badge&logo=CSDN&logoColor=black"/></a>
+    <a href="https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
+    <a href="https://blog.csdn.net/weixin_59034808?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-ffffff?style=for-the-badge&logo=CSDN&logoColor=black"/></a>
     <a href="mailto:13674711730@163.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
     <a href="https://github.com/LittleBiga"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   
