@@ -9,14 +9,6 @@
     </a>
 </div>
 
-<!-- 贪吃蛇贡献图 -->
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-
 <div align="center">
     <p>
         <a href="https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
@@ -30,6 +22,14 @@
     
 [![GitHub followers](https://img.shields.io/github/followers/LittleBiga?style=social)](https://github.com/LittleBiga)
 <img src="https://komarev.com/ghpvc/?username=LittleBiga&color=blueviolet" />
+</div>
+
+<!-- 贪吃蛇贡献图 -->
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 <!-- ################################# 分割线 ################################# -->
