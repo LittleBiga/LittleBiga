@@ -22,25 +22,23 @@
   </picture>
 
 </div>
-<p>
-  <a href="[https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
-  <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-ffffff?style=for-the-badge&logo=CSDN&logoColor=black"/></a>
-  <a href="mailto:13674711730@163.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <br/>
-  <a href="https://mp.weixin.qq.com/s/iHMUPWsXQjUfImx-oCu53Q">微信公众号:正经人王同学</a>
-  <a href="https://www.zhihu.com/people/30-95-6-63">知乎:正经人王同学</a>
-  <a href="https://x.com/zjrwtx">微信：whatisallineed</a>
+
+<div align="center">
+  <p>
+    <a href="[https://www.youtube.com/@Wave-d6k"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=Youtube&logoColor=black"/></a>
+    <a href="https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111"><img src="https://img.shields.io/badge/CSDN-ffffff?style=for-the-badge&logo=CSDN&logoColor=black"/></a>
+    <a href="mailto:13674711730@163.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+    <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   
   
-</p>
+  </p>
 
-![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
-![](https://img.shields.io/badge/Role-AI_Engineer_Researcher-20B2AA)
+  ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
+  ![](https://img.shields.io/badge/Role-AI_Engineer_Researcher-20B2AA)
 
-[![GitHub followers](https://img.shields.io/github/followers/LittleBiga?style=social)](https://github.com/LittleBiga)
-![Profile Views](https://komarev.com/ghpvc/?username=LittleBiga&color=blueviolet)
-
+  [![GitHub followers](https://img.shields.io/github/followers/LittleBiga?style=social)](https://github.com/LittleBiga)
+  ![Profile Views](https://komarev.com/ghpvc/?username=LittleBiga&color=blueviolet)
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <h1>📌 关于我 | About Me</h1>
@@ -75,30 +73,3 @@
 </td></tr>
 
 </table>
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
