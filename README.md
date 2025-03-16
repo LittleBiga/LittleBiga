@@ -5,9 +5,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-        <!-- 固定标题 -->
-    <h2>小唐同学祝您：</h2>
-        <!-- 动态内容 -->
+    <!-- 动态内容 -->
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=535&lines=💻 代码无BUG 💻;🎯 万事皆胜意 🎯&center=true&size=27&height=40&vCenter=true&repeat=true" />
     </a>
