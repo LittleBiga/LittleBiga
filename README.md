@@ -24,9 +24,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/Profile_snake_contribt/github-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/Profile_snake_contribt/github-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleBiga/LittleBiga/Profile_snake_contribt/github-grid-snake-dark.svg" />
   </picture>
 
 </div>
