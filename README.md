@@ -45,8 +45,13 @@
 
 <!-- ################################# 分割线 ################################# -->
 <h1>📊 GitHub 统计看板 | Statistics</h1>
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LittleBiga&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LittleBiga&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<div align="center">
+    <!-- GitHub 数据统计 -->
+    <div style="display: flex; align-items: center; gap: 10px; max-width: 100%; overflow: hidden;">
+        <img style="height:137px; flex:1; min-width: 45%; object-fit: contain" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LittleBiga&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+        <img style="flex-shrink: 0; min-width: 0" height="137" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LittleBiga&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    </div>
+</div>
 
 <!-- ################################# 分割线 ################################# -->
 <h1>👀 访问人数 | Visitors</h1>
