@@ -34,7 +34,7 @@
 
 <!-- ################################# 分割线 ################################# -->
 <h1>📌 关于我 | About Me</h1>
-<ul style="line-height:1.8;">
+<ul style="line-height:2.5;">
     <li>🎓 教育背景：本科自动化 | 硕士电子信息 (B.Eng Automation -> M.Eng Electronic Information)</li>
     <li>🎯 研究方向 / Research Focus: 基于学习的机械臂抓取规划 (Learning-based Robotic Grasping Planning)</li>
     <li>💻 技术栈 / Tech Stack: Python/C、机器学习/ML、深度强化学习/DRL</li>
