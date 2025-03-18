@@ -44,6 +44,27 @@
 </ul>
 
 <!-- ################################# 分割线 ################################# -->
+<h1>👔 实习/工作经历 | Work Experience</h1>
+<div align="center">
+<table style="width: 100%; line-height: 1.6; border-collapse: collapse; margin: 20px 0;">
+    <tr>
+        <th style="text-align: left; padding: 8px;">工作单位</th>
+        <th style="text-align: left; padding: 8px;">时间</th>
+        <th style="text-align: left; padding: 8px;">工作岗位</th>
+        <th style="text-align: left; padding: 8px;">工作内容</th>
+    </tr>
+    <tr>
+        <td style="padding: 8px;">
+            <a href="https://www.digitalchina.com/" style="margin-left: 10px;">神州数码集团</a>
+        </td>
+        <td style="padding: 8px;">2025-03-17 —— 至今</td>
+        <td style="padding: 8px;">AI研究实习生</td>
+        <td style="padding: 8px;">大模型前沿技术调研、大模型部署与微调</td>
+    </tr>
+</table>
+</div>
+
+<!-- ################################# 分割线 ################################# -->
 <h1>📊 GitHub 统计看板 | Statistics</h1>
 <div align="center">
     <!-- GitHub 数据统计 -->
