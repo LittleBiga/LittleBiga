@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">🌟 Bon Voyage! I'm Bowen Tang</h1>
+    <h1 align="center">🌟 Bon Voyage! I'm Bowen.</h1>
     <h3 align="center"></h3>
 
 <!-- 动态打字效果 -->
@@ -46,12 +46,10 @@
 <!-- ################################# 分割线 ################################# -->
 <h1>📊 GitHub 统计看板 | Statistics</h1>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LittleBiga&show_icons=true&theme=radical" 
-         width="400" 
-         alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBiga&layout=compact&theme=tokyonight" 
-         width="400" 
-         alt="Top Languages" />
+    <!-- GitHub 数据统计 -->
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LittleBiga&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LittleBiga&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
 </div>
 
 <!-- ################################# 分割线 ################################# -->
